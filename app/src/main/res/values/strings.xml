@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string-array name="names">
+        <item>blankspace</item>
+        <item>aedilhaimushkil</item>
+        <item>alone</item>
+        <item>loseyourself</item>
+        <item>despascito</item>
+        <item>jiyeinkyun</item>
+        <item>marathi_sairat_jhala</item>
+
+    </string-array>
+</resources>
